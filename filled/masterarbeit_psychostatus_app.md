@@ -28,11 +28,10 @@ Routine Outcome Monitoring (ROM) mit Patient Reported Outcomes (PROMs) ist zentr
 ## Informationen
 
 - __Name:__ Lopez Samper, Alberto
-- __Matrikelnummer:__ TKTK
 - __Studiengang:__ Psychologie Master
 - __E-Mail:__ <alberto.lopezsamper@students.unibe.ch>
 - __Beginn:__ 05.08.2025
-- __Abgabedatum:__ 05.08.2025
+- __Abgabedatum:__ 05.08.2026
 - __Betreuer 1:__ Prof. Dr. Berger
 - __Betreuer 2:__ Dr. Gisbert Teepe
 

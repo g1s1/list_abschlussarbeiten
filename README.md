@@ -1,6 +1,6 @@
 # List of all Bachelor and Master Theses currenlty offered at DIBOP
 
-The language of the title indicates the language of the thesis. 
+The language of the title indicates the language of the thesis.
 
 ## Open Theses
 
