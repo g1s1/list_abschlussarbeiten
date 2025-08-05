@@ -6,4 +6,4 @@ The language of the title indicates the language of the thesis.
 
 ## Previous Theses
 
-- [Ein DAP bassierter Psychostatus für die Alterspsychiatrie und -psychotherapie](https://app.upd-verse-int.ch/)
+- [Ein DAP bassierter Psychostatus für die Alterspsychiatrie und -psychotherapie](filled/masterarbeit_psychostatus_app.md)
